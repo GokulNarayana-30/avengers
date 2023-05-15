@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    color: aliceblue;
+    background-image: url(av.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.i{
+    background-color: darkblue;
+    width:  50%;
+    height: 40px;
+    padding: 0.01px;
+    margin-left: 25%;
+}
+.image{
+    margin-left: 20px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    height: 30px;
+    width: 100%;
+}
+marquee{
+    color: red;
+}
+h3{
+    color: beige;
+}
+h2{
+    color: aqua;
+}
